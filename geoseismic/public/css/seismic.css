@@ -1,0 +1,32 @@
+.map {
+        width: auto;
+        height: 150px;
+      }
+
+.card {
+  background-color: #0a563d8f;
+  color: #ffffff;
+}
+.page-link {
+  color: #000000;
+}
+.page-item.active .page-link {
+    background-color: #56740d;
+    border-color: #035815;
+}
+.navbar-laravel {
+  background-color: #034b3e;
+}
+.navbar-light .navbar-brand {
+  color:#ffffff;
+}
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus {
+  color: #ffffff;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: rgb(250, 250, 250);
+}
+.size{
+  width: 422px;
+  margin-bottom: 14px;
+}
